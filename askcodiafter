@@ -1,0 +1,32 @@
+<!DOCTYPE html>
+<html>
+<head>
+    <title>Amazon Electronic Store</title>
+    <!-- Add your CSS links for styling -->
+    <link rel="stylesheet" type="text/css" href="styles.css">
+</head>
+<body>
+    <header>
+        <!-- Header content, including logo, navigation, and user login -->
+    </header>
+    <main>
+        <section id="product-catalog">
+            <!-- Product catalog content, including search, filters, and product listings -->
+        </section>
+        <section id="user-features">
+            <!-- User-specific features like reviews, ratings, subscriptions, and purchase history -->
+        </section>
+        <section id="gaming-zone">
+            <!-- Content for the gaming zone -->
+        </section>
+        <section id="offers">
+            <!-- Offers for frequent buyers -->
+        </section>
+    </main>
+    <footer>
+        <!-- Footer content, including additional links and information -->
+    </footer>
+    <!-- Add your JavaScript links for interactivity -->
+    <script src="scripts.js"></script>
+</body>
+</html>
